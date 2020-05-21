@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LastLocationTest</string>
+    <string name="string_last_location">ここに現在地が表示されます。</string>
+    <string name="string_get_last_location_button">PUSH</string>
+</resources>
